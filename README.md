@@ -5,17 +5,30 @@
 chose only first letter of colour example: orange=>o
 
 # DESCRIPTION OF NOTATION WHICH WILL USE FOR SOLVING RUBIK CUBE
+
 U=upper clockwise    
+
 Ui =upper anti clockwise
+
 F=Front clockwise
+
 Fi =Front anti clockwise
+
 B=back clockwise
+
 Bi =back anti clockwise
+
 R=right clockwise
+
 Ri =right anti clockwise
+
 L=left clockwise
+
 Li =left anti clockwise
-Bo =bottom clockwise Boi=bottom  anti clockwise
+
+Bo =bottom clockwise 
+
+Boi=bottom  anti clockwise
 
 # STEPS
 there is 5 Steps 
