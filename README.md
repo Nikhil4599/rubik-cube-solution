@@ -52,7 +52,7 @@ restart
 
 # Choice of Selection 
 1.Steps=it will give steps in sequence for solving Rubik cube.(this is will display only ones)
-
+ 
 2.Reverse Steps=it will give steps in reverse order for anti solving Rubik cube.(this is will display only ones)
 
 3.Display all colors=it will conform the order of colour which should match with user Rubik Cube.
