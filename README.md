@@ -40,6 +40,7 @@ there is 5 Steps
 
 in all steps there is Choice of Selection except Full Rubik Cube Step
 IN Full Rubik Cube Step
+
         1.FOR GETTING FISH SHAPE TAKE CORNER COLOUR AT LEFT BOTTOM
 R U Ri U R U2 Ri
 if not done enter (0)0
@@ -53,7 +54,8 @@ R U Ri U R U2 Ri
 if done enter (0)1
 restart
 FOR SOLVING HEDLIGHTS OF LAST LAYER
-        1.ALGORITHUM
+       
+       1.ALGORITHUM
 Ri F Ri B B R Fi Ri B B R R
 if done enter (0)1
 restart
