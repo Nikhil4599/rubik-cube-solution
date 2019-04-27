@@ -51,14 +51,14 @@ if done enter (0)1
 restart
 
 # Choice of Selection 
-==========================
+
 ||      MENU            ||
 ||1.Steps               ||
 ||2.reverse Steps       ||
 ||3.display all colors  ||
 ||4.EXIST               ||
 || Enter Your Choice    ||
-==========================
+
 
 1.Steps=it will give steps in sequence for solving Rubik cube.(this is will display only ones)
 2.Reverse Steps=it will give steps in reverse order for anti solving Rubik cube.(this is will display only ones)
