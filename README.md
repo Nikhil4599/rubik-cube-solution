@@ -75,4 +75,4 @@ restart
 4.Exist=it will stop the step
 
 # OUTPUT
-![input] (https://github.com/Nikhil4599/rubik-cube-solution/blob/master/input.png)
+![input](input.png)
