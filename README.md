@@ -78,6 +78,6 @@ restart
 This is input Screen Shots 
 ![input](input.png)
 After Filling all Parameter we have this option
-![cross](cross.png)
+![cross](Cross.png)
 this is Screen shot of all colours
-![cross2](cross2.png)
+![cross2](Cross2.png)
