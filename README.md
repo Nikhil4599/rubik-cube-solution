@@ -75,4 +75,9 @@ restart
 4.Exist=it will stop the step
 
 # OUTPUT
+This is input Screen Shots 
 ![input](input.png)
+After Filling all Parameter we have this option
+![cross](cross.png)
+this is Screen shot of all colours
+![cross2](cross2.png)
