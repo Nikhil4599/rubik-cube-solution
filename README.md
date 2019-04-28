@@ -75,4 +75,4 @@ restart
 4.Exist=it will stop the step
 
 # OUTPUT
-![GitHub input] (/input.png)
+![GitHub input] (/rubik-cube-solution/input.png)
