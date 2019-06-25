@@ -1,5 +1,5 @@
-# rubik-cube-solution
-*THIS CODE IS ONLY WORK IN CODE BLOCKS.
+# Rubik Cube Solution
+NOTE-THIS CODE IS ONLY WORK IN CODE BLOCKS.
 
 # NOTE
 chose only first letter of colour example: orange=>o
