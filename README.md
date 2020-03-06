@@ -1,4 +1,4 @@
-# Rubik Cube Solution
+# Rubik Cube Solution(MINI PROJECT 2017)
 NOTE-THIS CODE IS ONLY WORK IN CODE BLOCKS.
 
 # NOTE
